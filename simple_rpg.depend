@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789281381 source:c:\users\lenovo\desktop\simple_rpg\main.cpp
+	<iostream>
+	<cstdlib>
+
